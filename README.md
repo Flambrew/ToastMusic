@@ -2,7 +2,7 @@
 
 ### So here's the premise:
 
-Mr. Yeago made that same awful mistake that all English teachers make at some point in their lives, which is assigning me to write poetry.
+Mr. Yeago made that same awful mistake that all English teachers make at some point in their lives, which is assigning me to write poetry.<br>
 I have only one muse, and that is toast.
 
 ### These were the results:
@@ -34,12 +34,12 @@ When I would make toast that would win me the day
 ```
 ### Why you're here:
 
-I immediately put this poem to melody, then to chords.
+I immediately put this poem to melody, then to chords.<br>
 Within an hour I started writing an orchestral score.
 
 **THIS IS WHERE YOU COME IN!!!**
 
-I need people who can play musical instruments because we're gonna record this thing.
+I need people who can play musical instruments because we're gonna record this thing.<br>
 Problem is if I don't know who's in my orchestra, things get tough.
 
 ### Why is text on github?????
@@ -48,6 +48,6 @@ I'm going to post updates to the score and parts here, in the forms of:
 - Musescore files (.mscz)
 - Audio files (.mp3, .mp4, .m4a, .wav)
 - Sheet music (.pdf)
-As well as any other materials I deem approprate to deposit here.
+As well as any other materials I deem approprate to deposit here.<br>
 
 I'm so excited to do this!!!
