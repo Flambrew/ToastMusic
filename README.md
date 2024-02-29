@@ -47,6 +47,6 @@ Problem is if I don't know who's in my orchestra, things get tough.
 I'm going to post updates to the score and parts here, as well as any other materials I deem approprate to deposit, in the forms of:
 - Musescore files (.mscz)
 - Audio files (.mp3, .mp4, .m4a, .wav)
-- Sheet music (.pdf)<br><br>
+- Sheet music (.pdf)<br>
 
 I'm so excited to do this!!!
