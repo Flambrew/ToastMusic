@@ -2,7 +2,7 @@
 
 ### So here's the premise:
 
-Mr. Yeago made that awful mistake that English teachers do, which is assigning me to write poetry.
+Mr. Yeago made that same awful mistake that all English teachers make at some point in their lives, which is assigning me to write poetry.
 I have only one muse, and that is toast.
 
 ### These were the results:
