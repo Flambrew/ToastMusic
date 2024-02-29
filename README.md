@@ -49,4 +49,4 @@ I'm going to post updates to the score and parts here, as well as any other mate
 - Audio files (.mp3, .mp4, .m4a, .wav)
 - Sheet music (.pdf)<br>
 
-I'm so excited to do this with yall!!!
+I'm so excited to do this with you!!!
