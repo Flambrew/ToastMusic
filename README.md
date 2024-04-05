@@ -24,13 +24,13 @@ Who cursed me to bake boorish bread-
 That sits in the toaster completely unchanged;
 Now I feel I'd be better off dead.
 
-My only true passion! My 'but dans la vie!'
+My only true passion! Mon but dans la vie!
 Destroyed... desecrated... demolished.
 I traveled the globe seeking one to repair me
-While watching my dreams be abolished.
+While watching my dreams disappear.
 
-Now I sit in my kitchen while rotting away
-As I long for those great days of old-
+I, in my kitchen, while rotting away,
+Long for those great days of old-
 When I would make toast that would win me the day
 'Stead of lying untouched growing mold.
 ```
