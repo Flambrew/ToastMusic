@@ -41,8 +41,8 @@ Within an hour I started putting this to melody.
 I have hence finished a score, available at https://musescore.com/user/20361241/scores/15259390.
 
 I need people who can play musical instruments because we're gonna record this thing.<br>
-Problem is if I don't know who's in my orchestra, things get tough.
 
-(fyi I will reinstrument and make adjustments to the score based on who I have)
+I will reinstrument and make adjustments to the score based on who I have.
+Problem is, if I don't know who's in my orchestra, I can't do that.
 
 I'm so excited to do this with you!!!
