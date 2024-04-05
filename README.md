@@ -36,21 +36,13 @@ When I would make toast that would win me the day
 ```
 ### Why you're here:
 
-I immediately put this poem to melody, then to chords.<br>
-Within an hour I started writing an orchestral score.
+Within an hour I started putting this to melody.
 
-**THIS IS WHERE YOU COME IN!!!**
+I have hence finished a score, available at https://musescore.com/user/20361241/scores/15259390.
 
 I need people who can play musical instruments because we're gonna record this thing.<br>
 Problem is if I don't know who's in my orchestra, things get tough.
 
-### Why is this on github?????
-
-I'm going to post updates to the score and parts here, as well as any other materials I deem approprate to deposit, in the forms of:
-- Musescore files (.mscz)
-- Audio files (.mp3, .mp4, .m4a, .wav)
-- Sheet music (.pdf)<br>
-
-Github makes keeping backups of everything easy :)
+(fyi I will reinstrument and make adjustments to the score based on who I have)
 
 I'm so excited to do this with you!!!
